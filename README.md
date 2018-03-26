@@ -1,2 +1,2 @@
 # binder
-various notebooks
+various python notebooks
